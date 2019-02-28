@@ -33,6 +33,6 @@ You can play with it in the following link.
 [Graph](https://bl.ocks.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40/ee9d335a443b042fc20c2f2eb0d55e9997d2f2b9)
 
 ## Licensing, Authors, Acknowledgements
-I have to give credit to all the volunteers at Genius for transcrubing and to [Paras Chopra](https://towardsdatascience.com/generating-new-ideas-for-machine-learning-projects-through-machine-learning-ce3fee50ec2) and [Daniel E. Licht](https://lichtphyz.github.io/) whose work is the base of this project. 
+I have to give credit to all the volunteers at Genius for transcribing the dialogues as well as to [Paras Chopra](https://towardsdatascience.com/generating-new-ideas-for-machine-learning-projects-through-machine-learning-ce3fee50ec2) and [Daniel E. Licht](https://lichtphyz.github.io/) whose work is the base of this project. Apart from that feel free to use the code and files as you wish.
 
 
