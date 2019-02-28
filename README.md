@@ -1,5 +1,9 @@
 # Game-of-thrones-analysis
-Analysis of GoT dialogues using NLP techniques.
+Analysis of GoT dialogues using NLP techniques. 
+
+The main question I would like to answear is how dialogues relate characters in GoT series, and what we can learn from those relationships. 
+
+You can learn more about the motivation for this project in this post.
 
 # Install
 
