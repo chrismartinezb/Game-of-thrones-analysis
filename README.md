@@ -22,10 +22,12 @@ seasons are there and of course you will found some mistakes, but is the best th
 
 All the csv files I will use are available [here](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/CSV), and you can find how I transform the raw text into a more useful csv in the [Final Pipeline](https://github.com/chrismartinezb/Game-of-thrones-analysis/blob/master/Final%20Pipeline.ipynb) notebook.
 
-## Graphs 
+## Network Graph
 
-https://blockbuilder.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40
+You can play with it in the following link.
 
-https://bl.ocks.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40/ee9d335a443b042fc20c2f2eb0d55e9997d2f2b9
+[Graph](https://bl.ocks.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40/ee9d335a443b042fc20c2f2eb0d55e9997d2f2b9)
+
+
 
 
