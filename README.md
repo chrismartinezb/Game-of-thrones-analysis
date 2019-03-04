@@ -3,7 +3,7 @@ Analysis of GoT dialogues using NLP techniques.
 
 The main question I would like to answear is how dialogues relate characters in GoT series, and what we can learn from those relationships and weather or not using a neural network to generate dialogues will be a viable thing to do. 
 
-You can learn more about the motivation for this project in this post.
+You can learn more about the motivation for this project in this [post](https://medium.com/@chris.martinez.bernal/having-fun-with-nlp-and-game-of-thrones-dialogues-21c647b0837f).
 
 # Install
 
