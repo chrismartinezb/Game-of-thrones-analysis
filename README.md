@@ -1,7 +1,7 @@
 # Game-of-thrones-analysis
 Analysis of GoT dialogues using NLP techniques. 
 
-The main question I would like to answear is how dialogues relate characters in GoT series, and what we can learn from those relationships. 
+The main question I would like to answear is how dialogues relate characters in GoT series, and what we can learn from those relationships and weather or not using a neural network to generate dialogues will be a viable thing to do. 
 
 You can learn more about the motivation for this project in this post.
 
@@ -24,13 +24,25 @@ This project requires **Python 3.6** and the following Python libraries installe
 I obtained the raw dialogues from [Genius.com](https://genius.com/artists/Game-of-thrones), these were trancribed by volunteers, so not all
 seasons are there and of course you will found some mistakes, but is the best there is. Also I encourage you to participate and transcribe some dialogues yourself, it will be so cool to have all the seasons transcribed for further analysis. 
 
-All the csv files I will use are available [here](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/CSV), and you can find how I transform the raw text into a more useful csv in the [Final Pipeline Git](https://github.com/chrismartinezb/Game-of-thrones-analysis/blob/master/Final%20Pipeline%20git.ipynb) notebook.
+All the csv files I will use are available [here](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/CSV), and you can find how I transform the raw text into a more useful csv in the [Final_Pipeline](https://github.com/chrismartinezb/Game-of-thrones-analysis/blob/master/Final_Pipeline.ipynb) notebook.
+
+## File description.
+
+[Final_Pipeline](https://github.com/chrismartinezb/Game-of-thrones-analysis/blob/master/Final_Pipeline.ipynb): The whole process from data preparation and analysis to modeling and scoring.
+
+[GoT dialogue generator](https://github.com/chrismartinezb/Game-of-thrones-analysis/blob/master/GoT%20dialogue%20generator.ipynb): Using a pre trained model to generate random GoT dialogues. 
+
+[GoT](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/GoT): All raw form of chapter scripts obtained from [Genius.com](https://genius.com/artists/Game-of-thrones).
+
+[CSV](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/CSV): Three CSV files, if you want to follow all the data cleaning I did you need them. 4 columns they contain: Character, dialogue, season and chapter. The rows vary from file to file but around 14K. 
+
 
 ## Network Graph
 
 You can play with it in the following link.
 
 [Graph](https://bl.ocks.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40/ee9d335a443b042fc20c2f2eb0d55e9997d2f2b9)
+
 
 ## Dialogue generation.
 
